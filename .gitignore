@@ -95,5 +95,8 @@ dump.rdb
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
 
+# JetBrains
+.idea/
+
 # Other
 service.db
